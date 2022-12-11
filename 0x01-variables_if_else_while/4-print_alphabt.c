@@ -3,7 +3,8 @@
 
 /**
  * main - returns alphabets both except e and q
- * Return: Always 0 
+ *
+ * Return: Always 0
  */
 int main(void)
 {
